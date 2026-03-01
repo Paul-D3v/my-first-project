@@ -1,0 +1,21 @@
+My Programming Goals for 2026
+
+1. Master Node.js and backend development
+   - Build RESTful APIs and microservices
+   - Work with databases (MongoDB, PostgreSQL)
+
+2. Learn Cloud Computing fundamentals
+   - Deploy applications to AWS/Azure
+   - Implement CI/CD pipelines
+
+3. Become proficient with Git and GitHub
+   - Master version control workflows
+   - Contribute to open source projects
+
+4. Build full-stack applications
+   - Create modern web applications
+   - Deploy production-ready solutions
+
+5. Improve problem-solving skills
+   - Practice algorithms regularly
+   - Build real-world projects
