@@ -12,10 +12,11 @@ My Programming Goals for 2026
    - Master version control workflows
    - Contribute to open source projects
 
-4. Build full-stack applications
-   - Create modern web applications
-   - Deploy production-ready solutions
+4. Be a Certified and experienced Cybersecurity Analyst
+   - CC, Security+ and Network+ certification
+   - Blue Teamer
 
 5. Improve problem-solving skills
    - Practice algorithms regularly
    - Build real-world projects
+   - Stay consistent and dedicated
