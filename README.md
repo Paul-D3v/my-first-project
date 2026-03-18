@@ -234,6 +234,6 @@ Through this assignment, I have learned to:
 
 ## Author
 
-[Your Name]  
+Paul Umeh  
 Cloud Computing Course  
 February 2026
